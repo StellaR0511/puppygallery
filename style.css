@@ -1,0 +1,10 @@
+img{
+    max-height: 200px;
+}
+.img-responsive{
+    min-width: 400px;
+    max-height: 400px;
+}
+html{
+    text-align: center;
+}
